@@ -64,7 +64,7 @@ The Ashton offered two options for paying the rent:
 * Pay $0 for the first two months and $2750 for the next ten months
 * Pay $2291.67 for each of the 12 months
 
-I chose the first option.  To pick, I viewed the baseline as option (2).  With that baseline, option (1) is then a 0% loan of the first two months rent.  If someone wants to loan you money for free, you should always take it.  Option (2) only makes sense for people with money management problems.  However, if you can't manage your cash flow to accommodate a 0% loan, you probably shouldn't be renting a luxury apartment.
+I chose the first option.  To pick, I viewed the baseline as option (2).  With that baseline, option (1) is then a 0% loan on $5500 that is paid back in installments later in the year.  If someone wants to loan you money for free, you should always take it.  Option (2) only makes sense for people with money management problems.  However, if you can't manage your cash flow to accommodate a 0% loan, you probably shouldn't be renting a luxury apartment.
 
 Things were going really well.  I also bought a fancy car, a 2006 Lotus Elise.  
 
