@@ -6,7 +6,7 @@ I moved around a lot early in my career.  After finishing school in Colorado, I 
 
 I picked Seattle because of the coffee shops.  Growing up near the Trident in Boulder had turned me on to coffee shops.  Seattle cemented my affection for coffee shops and the neighborhoods they inhabit.  At the time my Seattle favorites were Bauhaus, Zeitgeist, Victrola and Joe Bar.
 
-![89 Yesler](/images/1/89 Yesler.jpg)
+![89 Yesler](/images/1/89%20Yesler.jpg)
 
 In 2005 Pioneer Square was full of decaying buildings, nightclubs and homeless shelters.  A lot of the city's artist population lived there because it was cheap and picturesque.  I rented a semi-legal loft at 89 Yesler for $1200/month.  I loved living in that loft, but I couldn't quite afford it.  
 
@@ -20,7 +20,7 @@ From then on I had a variety of strange living situations.  My time in Chicago w
 
 I spent a month or so working in South Africa, followed by several weeks in London.  When I got back to New York I needed a new place to live.  My friend Michelle had a one bedroom railroad apartment at 6th and B.  She rented me her living room for $800/month.  Michelle's ex-boyfriend, Blair, had a rent controlled apartment at 11th and C.  He moved to LA and wanted to sublet it.  At the time NYC allowed subletting for the rent control price plus $50/month to cover administrative costs.
 
-![185 Ave C](/images/1/185 Ave C.jpg)
+![185 Ave C](/images/1/185%20Ave%20C.jpg)
 
 At some point the apartment got bedbugs.  Even just typing that, I can feel them running up and down my legs.  Because there was no washer/dryer, it was difficult to follow the typical advice for dealing with bed bugs.  Instead, I took to dry cleaning everything.  Then construction started next door.  A new building went up flush against my windows, blocking out light for most of the apartment and creating deafening noise twelve hours a day.
 
