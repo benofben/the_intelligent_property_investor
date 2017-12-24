@@ -12,7 +12,11 @@ In 2005 Pioneer Square was full of decaying buildings, nightclubs and homeless s
 
 According to the [HUD](https://www.hud.gov/program_offices/comm_planning/affordablehousing/): "Families who pay more than 30 percent of their income for housing are considered cost burdened and may have difficulty affording necessities such as food, clothing, transportation and medical care."
 
-At the time I was making $40k/year.  That felt like a staggering sum.  However, doing the math: ($1,200*12)/$40,000 = 36%.  The difficulties of rent burden weren't immediately clear.  I bought a dining set from Crate and Barrel, two couches from Dana and the Edo Bed from Area 51.  I'd been eyeing the bed for years at that point.  A store in Boulder had it in their display window.  For the first time in my life I had a fully furnished space that was mine alone.
+At the time I was making $40k/year.  That felt like a staggering sum.  However, doing the math:
+
+($1,200*12)/$40,000 = 36%.  
+
+The difficulties of rent burden weren't immediately clear.  I bought a dining set from Crate and Barrel, two couches from Dana and the Edo Bed from Area 51.  I'd been eyeing the bed for years at that point.  A store in Boulder had it in their display window.  For the first time in my life I had a fully furnished space that was mine alone.
 
 Of course, things were too tight. I asked my dad for help a couple times.  Then TrakWell went out of business.  There was no announcement.  Instead an expense check was late.  Then a paycheck.  Then another.  I couldn't get my boss on the phone or the CEO.  With the 12 month lease on 89 Yesler up, I took a job in Chicago with TIBCO.
 
