@@ -1,7 +1,8 @@
-Best holding period is forever
+
 
 You can fondle it, but it won't responded
 
-An investment is...
+nothing reduces rationality
 
-nothing reduces rationality 
+
+"In the long run we are all dead." John Maynard Keynes, A Tract on Monetary Reform
