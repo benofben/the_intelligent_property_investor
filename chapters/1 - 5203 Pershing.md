@@ -1,5 +1,7 @@
 # 1 - 5203 Pershing
 
+"He who fight and run away live to fight another day." -Bob Marley, The Heathen
+
 I moved around a lot early in my career.  After finishing school in Colorado, I was lucky enough to land a job at a startup through a combination of family connections and upfront work for free.  TrakWell had headquarters in Minneapolis, but allowed me to work from Seattle.
 
 I picked Seattle because of the coffee shops.  Growing up near the Trident in Boulder had turned me on to coffee shops.  Seattle cemented my affection for coffee shops and the neighborhoods they inhabit.  At the time my Seattle favorites were Bauhaus, Zeitgeist, Victrola and Joe Bar.
@@ -81,3 +83,21 @@ Before the internet, agents added a lot of value.  They knew the neighborhoods a
 Some agents will claim they can help you negotiating.  Don't trust them.  Your incentives are not aligned.  A buyer's agent paid on commission is incentivized to have you buy something expensive quickly.  They have no incentive to help you get the best price, they simply want to see you transact for as much as possible.
 
 In short, don't trust your agent.  They are a necessary evil.  They're useful for submitting offers and working through the steps of closing a deal, but their incentives are not aligned with yours.  Don't forget it.
+
+I found a house in Knox-Henderson that looked perfect, 5203 Pershing.  The asking price was $249,900.  The house is Bauhaus style, designed by Charles Dilbeck.  It's gorgeous, but run down.  It's easily walkable to the strip of bars and restaurants along Henderson.  I showed up to see it in my Lotus.  That was dumb.  The owner was also the listing agent.  She saw the car and immediately judged me as someone with more money than sense.  She may have been correct in that assessment.
+
+5203 would have been beautiful restored.  It easily needed $50k in work.  It could have soaked up $100k or more.  The price per square foot was well above comparables.  The comparison I ran put the price at $180k.  Between my bright orange car and the low offer, the seller was quite offended.  She budged a little but not enough to make sense.  My mom used to sell cars and had suggested I got in low to "break her spirit" before getting to the real negotiating.  I've made a number of low ball offers.  The ones that have worked don't cross a psychological barrier.  In this case, I think anything below $200k wasn't going to fly.
+
+I was emotionally invested in 5203.  I'd sketched where my furniture would fit in the house.  I'd researched garage door openers for the oddly hinged doors.  I'd spent an enormous amount of time walking the neighborhood.  Fortunately, when the economics didn't make sense, I had the good sense to walk away.  It wasn't easy.  
+
+As I write this on December 23, 2017, it appears 5203 has been foreclosed on and will be up for auction in January.  Zillow estimates it as worth $285,236.  If I'd bought for the asking pricing and put $50k into the house I'd be underwater today without even accounting for the time value of money.  It looks like I dodged a bullet with this one.
+
+The experience demystified mortgages, agents and offers significantly for me.  It was a good foundation for the next step, actually buying a house.
+
+The lease on my apartment at The Ashton ran out at the end of February 2012.  The new terms started with the $2750/month and then raised that.  I think they asked $2950/month for a 12 month lease.  I countered, asking what month to month would be.  That was well over $3000/month.  Similar apartments were renting for $2300/month.  In fact, the same deal I'd gotten a year before was still available to new tenants.  All this discussion happened in the gleaming sales office on the ground floor of the apartment.  It was my first time renting from a big company and I hope it was my last.  
+
+I think the manager of The Ashton judged me locked in enough to the apartment that they could screw me on the renewal.  This experience has informed how I operate as a landlord.  If you have a good tenant who takes care of the place and pays the rent on time, you work with them to retain them.  Turning the screws to increase your rent by 5%-10% doesn't work if it costs a month or two of vacancy.  And, vacancy is extremely difficult to avoid anytime a tenant turns over.
+
+At the time TIBCO had me traveling nearly every week, mostly to Chicago and New York to work with our financial services clients.  I announced to my boss, Mike, that I was moving back to Seattle.  He was surprisingly unphazed, something I am to this day deeply thankful for.
+
+Since leaving Pioneer Square, I'd continued to visit Seattle regularly and regarded it as my eventual home.  Moving back felt incredible.  My friend Graham was renting the basement of a ranch house on Mercer island.  He had a lot of rooms and not much furniture.  He was kind enough to drop an air mattress in one mostly empty room.  It developed a slow leak.  His dog, Bear, also liked to say hello and given the minimal height of the air mattress, it was hard to avoid face licking.  Monday morning flights to New York, often upgraded given my extensive cross country travel, was an interesting contrast to this living situation.  It was a great time.
