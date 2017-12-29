@@ -46,13 +46,19 @@ With my accounts in place, I settled on a three story shared flat in Fullwoods M
 
 I remember three quite well.  Laurence was from East London.  He worked in a boiler room selling questionable stocks to the unwitting.  He also had a tendency to get into bar fights about football.  One night he came home missing a tooth.  When I announced I could care less about football, he informed me I was henceforward an Arsenal fan.  Kristina was Finnish and worked for the FSA, the UK equivalent of the SEC.  Laurence was incredibly wary of her.  Upstairs was Nick, a fellow American who fits many of the stereotypes of Americans abroad, but is so friendly he's impossible to dislike.
 
+![Fullwoods Mews Studio](/images/1/Fullwoods%20Mews%20Studio.jpg)
+
 The flat had paper thin walls.  After a few months of settling into London I wanted my own space.  A studio next door in the same building came up.  I moved in there.  It had paper thin walls too.  I could hear every step above me.
 
 I'd spent a lot of time walking around the city and noticed what I thought was a pricing anomaly.  East London had a number of abandoned pubs.  The downstairs would typically be beautiful old wood, polished by a thousand hands holding and spilling their beer.  Upstairs might be additional dining space or even living space.  Sometimes they were partially burnt out.  Some were available for ₤500k-₤1M.  I tried to apply for a mortgage.  Several brokers told me it was impossible as a foreigner.  Others asked for down payments in excess of 30%, something I could not have afforded.  I quickly gave up the dream of home ownership in the UK.  That was in 2009, at the bottom of the credit crunch.  As of this writing, those buildings have all been restored or demolished.  Restored pubs are worth millions.  Interestingly, during this time, my American ex-roomate, Nick, was able to buy a small studio in Kensington.  I suspect he's done well with that investment.
 
+![Broadway Market Outside](/images/1/Broadway%20Market%20Outside.jpg)
+
 After a bit over a year in Fullwoods Mews I moved out of Zone 1 to a beautiful flat at 74 Broadway Market.  I was upstairs from a hair salon, across the street from a coffee shop and next door to the pub.  It even had a washer/dryer that more or less worked.  My only complaint was that on weekends the pub stayed open until 1am.  Of course most weekends I was at the pub or the cocktail bar, Off Broadway, next door, so it wasn't a big deal.  On Saturdays the street would close for a market with vendors selling saucisson, apple cider and even really good churros.
 
 Living in London was strangely alienating.  While I had an amazing time at Broadway Market, I learned I would always be a foreigner.  Even if I was wearing a perfectly tailored suit, the moment I opened my mouth it would be clear from my accent that I didn't belong.  I took to wearing cowboy boots with my suits.  They were great for walking around the city and I discovered that fitting into stereotypes could be more useful than fitting in.
+
+![Broadway Market](/images/1/Broadway%20Market.jpg)
 
 I wanted to move home.  Nothing will make you more patriotic than living in another country.  TIBCO offered me a few choices for 2011.  Singapore and the US were both on the table.  I missed home so much that I stupidly chose the US.  In the US my choices were Atlanta and Dallas.  My love of cowboy boots probably figured into the Dallas choice.  The lack of a state income tax didn't hurt either.
 
