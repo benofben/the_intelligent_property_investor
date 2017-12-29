@@ -66,6 +66,8 @@ After years of living in questionable places with terrible, failing or absent ap
 
 In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  Doing the math that works out to (10*2750)/12 = $2291.67/month.  This was less than I'd been paying in London for a much nicer place.  It even had a dishwasher, something I hadn't had in years.
 
+![Ashton](/images/1/Ashton.jpg)
+
 The Ashton offered two options for paying the rent:
 * Pay $0 for the first two months and $2750 for the next ten months
 * Pay $2291.67 for each of the 12 months
