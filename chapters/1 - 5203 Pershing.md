@@ -96,6 +96,8 @@ In short, don't trust your agent.  They are a necessary evil.  They're useful fo
 
 I found a house in Knox-Henderson that looked perfect, [5203 Pershing](https://www.zillow.com/homes/5203-Pershing-St,-Dallas,-TX-75206_rb/).  The asking price was $249,900.  The house is Bauhaus style, designed by Charles Dilbeck.  It's gorgeous, but run down.  It's easily walkable to the strip of bars and restaurants along Henderson.  I showed up to see it in my Lotus.  That was dumb.  The owner was also the listing agent.  She saw the car and immediately judged me as someone with more money than sense.  She may have been correct in that assessment.
 
+![5203 Pershing from Zillow in 2017](/images/1/5203%20Pershing.jpg)
+
 5203 would have been beautiful restored.  It easily needed $50k in work.  It could have soaked up $100k or more.  The price per square foot was well above comparables.  The comparison I ran put the price at $180k.  Between my bright orange car and the low offer, the seller was quite offended.  She budged a little but not enough to make sense.  My mom used to sell cars and had suggested I got in low to "break her spirit" before getting to the real negotiating.  I've since made a number of low ball offers.  The ones that worked don't cross a psychological barrier.  In this case, I think anything below $200k wasn't going to fly.
 
 I was emotionally invested in 5203.  I'd sketched where my furniture would fit in the house.  I'd researched garage door openers for the oddly hinged doors.  I'd spent an enormous amount of time walking the neighborhood.  Fortunately, when the economics didn't make sense, I had the good sense to walk away.  It wasn't easy.  
