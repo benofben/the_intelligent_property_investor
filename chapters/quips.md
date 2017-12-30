@@ -2,4 +2,4 @@
 
 "Buy land, they're not making it anymore." -Mark Twain
 
-"My life would be perfect if I lived in the house" -Meghan Daum
+"Life would be perfect if I lived in that house." -Meghan Daum
