@@ -1,3 +1,3 @@
 # Flipping
 
-"Nothing sedates rationality like large doses of effortless money." -Warren Buffet
+> Nothing sedates rationality like large doses of effortless money. -Warren Buffet

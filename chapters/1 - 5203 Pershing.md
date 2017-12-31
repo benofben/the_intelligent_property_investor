@@ -1,6 +1,6 @@
 # 1 - 5203 Pershing
 
-"He who fight and run away live to fight another day." -Bob Marley, The Heathen
+> "He who fight and run away live to fight another day." -Bob Marley, The Heathen
 
 I moved around a lot early in my career.  After finishing school in Colorado, I was lucky enough to land a job at a startup through a combination of family connections and upfront work for free.  TrakWell had headquarters in Minneapolis, but allowed me to work from Seattle.
 
