@@ -42,7 +42,7 @@ Radiant heat might be a passable supplemental way to heat your bathroom floor in
 
 One ticking time bomb was the boiler itself.  It was installed during a brief period where the vendor condoned the dual use domestic water supply and heating idea.  They since decided that wasn't a good idea.  Some units do support that, but they're hideously expensive.  At some point, that boiler is going to die.  Then there'll be a decision, try to replace it with something built for purpose, or rip the whole thing out and put in a new heating system.  I'm inclined toward option two.  Some simple electric wall units or even baseboard heaters might be a more economical solution than trying to make the radiant heat go.
 
-Jessica, the owner of the unit for sale, had done minor upkeep, but cut corners.  She'd originally purchased in 2012 for $219,950.  It was pretty clear she was cash strapped.  Judging from the sales records, her parents had helped her with the purchase.  She'd then worked as a bartender before getting pregnant and moving back in with them.
+Jessica, the owner of the unit for sale, had done minor upkeep, but cut corners.  She'd originally purchased in 2012 for $219,950.  It was pretty clear she was cash strapped.  Judging from the sales records, her parents had helped her with the purchase.  She'd then worked as a bartender before having a kid and moving back in with them.
 
 Vanessa had initially asked $259,000 and then dropped to $237,500.  We wrote an offer for asking with 5% down that was promptly accepted.  Paul uncovered a handful of issues, including the heat.  That was partially resolved with the installation of a new pump before closing.
 
