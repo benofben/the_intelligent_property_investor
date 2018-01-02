@@ -1,4 +1,4 @@
-# 1 - 5203 Pershing
+# 5203 Pershing
 
 > "He who fight and run away live to fight another day." -Bob Marley, The Heathen
 
