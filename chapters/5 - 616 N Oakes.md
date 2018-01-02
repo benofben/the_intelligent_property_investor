@@ -49,3 +49,19 @@ Vanessa had initially asked $259,000 and then dropped to $237,500.  We wrote an 
 I moved in during December.  As it was raining throughout the winter, I kept noticing leaks by the doors.  I called up the Roofer, Preferred Roofing Services.  Eventually I got transferred to Ed.  It was a family business and Ed took pride in his work.  Surprised that the roof would be leaking, he came out to take a look.  He did that under warranty, even though I wasn't the original buyer.  
 
 At Ed's suggestion we ran the garden hose up to the roof and began spraying the doors.  I was pretty skeptical this was the issue, but he was insistent.  Apparently he'd redone the entire roof, but Jessica's dad had insisted on reinstalling the doors and paneling himself.  Eventually Ed convinced me and I ended up hiring Ryan at South Sound Construction to replace both doors.  The leaking stopped.
+
+The loan on 616 N Oakes was the first time I really negotiated on a loan.  The eventual APR was 4.075% with a 3.625% rate.  The down payment was 5%, so this included PMI.  The lender wasn't terribly competent.  The close date slipped twice.  Each time we had to go back to the seller and ask for an extension.  They could have used that to cancel the contract, which wouldn't have been great.  Because of oddities with the financing the final sales price ended up as $237,219.
+
+An additional headache was the Washington has a transfer tax.  That's typically paid by the seller and in this case it was.  The lender was in NJ and kept adding it to various closing costs.
+
+![616 - Cash Flow](/images/4/616%20-%20Cash%20Flow.png)
+
+In 2017, the first tenant moved in, partway through the year.  His monthly rent was $1900.  That made the townhouse cash flow positive, impressive considering that it was recently bought with a 5% downpayment.
+
+![616 - Model](/images/4/616%20-%20Model.png)
+
+The ROE model this time looks a bit different.  As before, the time living in the townhouse has a dismal ROE because no rent is collected.  We could certainly adjust for this, but even with that adjustment there would still be an impact from the downpayment costs.  616 also had repair costs because of deferred maintenance in 2016.
+
+In 2017, equity actually dropped.  These numbers are taken from Zillow.  Zillow creates its estimate based on similar sales.  In 2017, the most similar sale possible happened, Vanessa's poorly maintained townhouse for $220k.  The Zillow estimate doesn't factor in that there was missing drywall and a roof leak, so the value of this unit was negatively impacted.
+
+The projections for ROE begin their inexorable march downward in 2018, starting at 82% and eventually dropping to 10.72% once the loan is paid off in 2046.  This is an amazing return, the result of high rents, good financing and a reatively low purchase price.  The only real concern with this property is the inevitable $10k-$20k cost to deal with the radiant heat.
