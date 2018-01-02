@@ -4,11 +4,11 @@ A bunch of companies are mentioned in this book.  If you're in the Seattle area,
 
 ## Seattle
 
-* Scott Mikel
-* Residential Inspection Services, Inc - Paul Rogers
+* Queen Anne Law Group, PLLC - Scott Mikel
+* Residential Inspection Services - Paul Rogers
 * Mike Hills Construction
-* Aimee
-* Hampton West - Chris Dugger
+* Vista Estate Imaging - Aimee Chase
+* Hampton West Real Estate - Chris Dugger
 * Martyn Byrne Plumbing
 
 ## Elsewhere

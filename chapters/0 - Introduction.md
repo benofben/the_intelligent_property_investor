@@ -5,7 +5,7 @@ My favorite business books are written by someone who did well and wants to shar
 * [Berkshire Hathaway Letters to Shareholders](https://www.amazon.com/Berkshire-Hathaway-Letters-Shareholders-Buffett/dp/0615975070)
 * Conrad Hilton's [Be My Guest](https://www.amazon.com/Be-My-Guest-Conrad-Hilton/dp/0130715980)
 * Ross Perot's [My Life & The Principles for Success](https://www.amazon.com/Life-Principles-Success-Ross-Perot/dp/1565302370)
-* T Boone Picken's [The First Billion is the Hardest](https://www.amazon.com/First-Billion-Hardest-Reflections-Comebacks/dp/0307396010)
+* T Boone Pickens's [The First Billion is the Hardest](https://www.amazon.com/First-Billion-Hardest-Reflections-Comebacks/dp/0307396010)
 
 I learn through stories.  I really like the stories about how these people succeeded early in life.  They're a lot more relevant to where I am than the later in life stories of struggling to run a philanthropic organization with 100s of millions in personal funding, something the later chapters in these books are often filled with.
 
