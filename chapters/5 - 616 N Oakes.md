@@ -22,7 +22,7 @@ Chris and I kicked off a house search in Tacoma in August, 2015.  The market was
 
 One tragedy in this is that, in many cases, the owners has clearly done substantial work to the houses.  In other cases, it was flippers who did the work.  In either case, it was lipstick on a pig.  One house had a Viking Range and marble countertops with a strange little bar.  It also had poorly installed windows with a second set of windows installed over them.  Money had been spent on the wrong things.
 
-Work owners had done to these houses tended to be extravagant in one particular area and then non-existent in others.  To contrast, houses that were being flipping all got a very similar HGTV treatment.  Cheap and dark laminate wood floors were common in these houses.  In many cases they weren't flat.  Kitchens had been redone with inexpensive cabinets and fake stone countertops.  If exterior work had been done, it'd be in the form of a coverup, a quick sprayed paint job or vinyl siding were two favorites.
+Work that owners had done to these houses tended to be extravagant in one particular area and then non-existent in others.  To contrast, houses that were being flipping all got a very similar HGTV treatment.  Cheap and dark laminate wood floors were common in these houses.  In many cases they weren't flat.  Kitchens had been redone with inexpensive cabinets and fake stone countertops.  If exterior work had been done, it'd be in the form of a coverup, a quick sprayed paint job or vinyl siding were two favorites.
 
 ![616 - Outside](/images/4/616%20-%20Outside.jpg)
 
@@ -32,7 +32,7 @@ Unsurprisingly, the work was substandard.  It appeared to have started off with 
 
 The owner of that unit, Vanessa, had bought from Darian for $210k in 2012.  Vanessa eventually sold in 2017 for $220k.  During that period she completely neglected maintenance and left the townhouse vacant for over a year while living in Olympia.  She'd periodically announce plans to rent it or advertise it on Airbnb as an "Executive Rental."  I may have expressed skepticism about the demand for short term executive rentals in Tacoma.
 
-The first time I met Vanessa, she announced she worked in real estate.  I asked what she did and she elaborated that she had properties.  Excited to find a fellow investor, I asked her for details.  She proudly said that this was her first property.  Vanessa and the alarming number of others like her around Tacoma made it seem quite likely they was a bit of a bubble developing in Tacoma during that period. 
+The first time I met Vanessa, she announced she worked in real estate.  I asked what she did and she elaborated that she had properties.  Excited to find a fellow investor, I asked her for details.  She proudly said that this was her first property.  Vanessa and the alarming number of others like her around Tacoma made it seem quite likely they was a bit of a bubble developing in Tacoma during that period.
 
 Vanessa would periodically stop by the townhouse to fix it up.  She might futz with the garden or hire a handyman to paint something.  The work that needed to happen never occurred.  Superficially Vanessa made $10k on that townhouse.  Of course, that was over a period of 5 years, during a rising market.  She also paid the mortgage for that time and presumably a 6% agent commission of $13.2k.  
 
