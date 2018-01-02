@@ -60,7 +60,7 @@ At Ed's suggestion we ran the garden hose up to the roof and began spraying the 
 
 The loan on 616 N Oakes was the first time I really negotiated on a loan.  The eventual APR was 4.075% with a 3.625% rate.  The down payment was 5%, so this included PMI.  The lender wasn't terribly competent.  The close date slipped twice.  Each time we had to go back to the seller and ask for an extension.  They could have used that to cancel the contract, which wouldn't have been great.  Because of oddities with the financing the final sales price ended up as $237,219.
 
-An additional headache was the Washington has a transfer tax.  That's typically paid by the seller and in this case it was.  The lender was in NJ and kept adding it to various closing costs.
+An additional headache was the Washington has a transfer tax.  That's typically paid by the seller and in this case it was.  The lender was in NJ and kept adding it to various closing costs.  It was eventually paid by the seller as expected.
 
 ![616 - Cash Flow](/images/4/616%20-%20Cash%20Flow.png)
 
