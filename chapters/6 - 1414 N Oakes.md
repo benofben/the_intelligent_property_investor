@@ -16,7 +16,7 @@ When a correction comes, I suspect it will impact far out areas like Tacoma most
 
 ![1414](/images/6/1414.jpg)
 
-After 5 or 10 failed offers, we eventually got mutual acceptance on a house at 1414 N Oakes, amusingly only 8 blocks from the townhouse.  After the 1122 24th Ave experience I'd promised myself never to buy another flipped house.  This was a flipped house.
+After 5 or 10 failed offers, we eventually got mutual acceptance on a house at [1414 N Oakes](https://www.zillow.com/homedetails/1414-N-Oakes-St-Tacoma-WA-98406/49214158_zpid/), amusingly only 8 blocks from the townhouse.  After the 1122 24th Ave experience I'd promised myself never to buy another flipped house.  This was a flipped house.
 
 The original owner, Jane, had bought it in 1989 for $51,900.  She'd gotten divorced, raised a son and eventually sold it to a flipper in 2015 for $210,100.  The annual rate of return on that works out to 4.38%.  During that time the neighborhood had changed massively for the better, with the moniker "Tacompton" becoming less relevant.  Jane seemed to have good intentions.  There was evidence of many half started projects - siding painted one color here and some molding partially painted another color there.  However, the house needed serious work when it was sold.
 
