@@ -14,7 +14,7 @@ Most of the buyers seemed to be Tacoma area locals, wanting to buy their first h
 
 When a correction comes, I suspect it will impact far out areas like Tacoma most.  Seattle has grown to such a degree that any downward pressure on housing prices is likely going to be met with an influx of eager buyers from further out.  The economy would have to get pretty rough for that to be untrue.
 
-![1414](/images/5/1414.png)
+![1414](/images/5/1414.jpg)
 
 After 5 or 10 failed offers, we eventually got mutual acceptance on a house at 1414 N Oakes, amusingly only 8 blocks from the townhouse.  After the 1122 24th Ave experience I'd promised myself never to buy another flipped house.  This was a flipped house.
 
