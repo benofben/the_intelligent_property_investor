@@ -12,6 +12,10 @@ In 70 years the total value of these properties will be nearly $16m, assuming a 
 
 Considering 10 years instead is somewhat interesting.  In that, we can see some over the struggles described in early chapters.  Unsurprisingly, 1122 24th ends up as the biggest single chunk given it's greater worth relative to the others.
 
+For many investments, it's interesting to look at the past history.  That's difficult here for a variety of reasons.  The Seattle area has changed massively since 2000 with entire new industries coming to the city.  That means the rents and character of the market has changed as well.  Similarly, the properties have changed.  The condos had significant work done to them.  The townhouse didn't event exist prior to 2010.  The two houses were in extremely poor shape.  Comparing 1122 24th Ave in 2000 and 2020 would require somehow accounting for $200k+ of remodel work that went into it.
+
+In short, looking backward in real estate is difficult.  It'd be simpler in a more static market with more static houses, perhaps a quiet town in rural Germany would fit the bill.
+
 ![Equity - 10 Year](/images/7/Equity%20-%2010%20Year.png)
 
 Over 70 years the equity graph is basically the same as the value graph.  With the mortgages paid off, the values are the same.  Over ten years, we see some interesting characteristics of equity.  The condos have very little equity in 2012, 2013 and 2014.  In 2015, the Seattle property market begins to take off.  Suddenly equity starts growing very quickly.  That levels off as we move from the real returns to projected returns of 2018 and onward.
