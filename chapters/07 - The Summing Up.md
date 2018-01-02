@@ -30,4 +30,6 @@ So, let's take a look at ROE in aggregate for the five properties.
 
 Since starting buying property in 2012, total cash flow has been -$510,447.39.  Total equity is now 908,347.03.  That gives a return of 78%.  This is a rough estimate that doesn't properly account for the time value of money during that period.  When annualized that return is 10%.
 
-Now, let's consider three different rates of appreciation: 3%, 5% and 10%.  That should give us a view into the range of probably options over the next decade.
+Once again, that 10% figure is a little discouraging, however there were a variety of benefits along the way.  These included housing for much of that period, tax benefits and the ability to change housing options without paying transaction costs.
+
+Now, let's consider three different rates of appreciation: 3%, 5% and 10%.  That should give us a view into the range of probably outcomes over the next decade.
