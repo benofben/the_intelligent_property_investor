@@ -24,7 +24,7 @@ One tragedy in this is that, in many cases, the owners has clearly done substant
 
 Work owners had done to these houses tended to be extravagant in one particular area and then non-existent in others.  To contrast, houses that were being flipping all got a very similar HGTV treatment.  Cheap and dark laminate wood floors were common in these houses.  In many cases they weren't flat.  Kitchens had been redone with inexpensive cabinets and fake stone countertops.  If exterior work had been done, it'd be in the form of a coverup, a quick sprayed paint job or vinyl siding were two favorites.
 
-![616 - Outside](/images/4/616%20-%20Outside.png)
+![616 - Outside](/images/4/616%20-%20Outside.jpg)
 
 I settled on a townhouse at 616 N Oakes.  The lot had previously had a Craftsman that rotted to oblivion.  Then it languished as a vacant grass lot for a few years.  The lot was developed in 2010 by Darian.  She'd built four townhouses and sold three of them off.  The fourth she sold to herself and kept as a rental unit.  The LLC that did all this promptly went out of business.
 
@@ -48,7 +48,7 @@ Jessica, the owner of the unit for sale, had done minor upkeep, but cut corners.
 
 Vanessa had initially asked $259,000 and then dropped to $237,500.  We wrote an offer for asking with 5% down that was promptly accepted.  Paul uncovered a handful of issues, including the heat.  That was partially resolved with the installation of a new pump before closing.
 
-![616 - Roof](/images/4/616%20-%20Roof.png)
+![616 - Roof](/images/4/616%20-%20Roof.jpg)
 
 I moved in during December.  As it was raining throughout the winter, I kept noticing leaks by the doors.  I called up the Roofer, Preferred Roofing Services.  Eventually I got transferred to Ed.  It was a family business and Ed took pride in his work.  Surprised that the roof would be leaking, he came out to take a look.  He did that under warranty, even though I wasn't the original buyer.  
 
