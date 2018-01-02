@@ -32,6 +32,8 @@ Unsurprisingly, the work was substandard.  It appeared to have started off with 
 
 The owner of that unit, Vanessa, had bought from Darian for $210k in 2012.  Vanessa eventually sold in 2017 for $220k.  During that period she completely neglected maintenance and left the townhouse vacant for over a year while living in Olympia.  She'd periodically announce plans to rent it or advertise it on Airbnb as an "Executive Rental."  I may have expressed skepticism about the demand for short term executive rentals in Tacoma.
 
+The first time I met Vanessa, she announced she worked in real estate.  I asked what she did and she elaborated that she had properties.  Excited to find a fellow investor, I asked her for details.  She proudly said that this was her first property.  Vanessa and the alarming number of others like her around Tacoma made it seem quite likely they was a bit of a bubble developing in Tacoma during that period. 
+
 Vanessa would periodically stop by the townhouse to fix it up.  She might futz with the garden or hire a handyman to paint something.  The work that needed to happen never occurred.  Superficially Vanessa made $10k on that townhouse.  Of course, that was over a period of 5 years, during a rising market.  She also paid the mortgage for that time and presumably a 6% agent commission of $13.2k.  
 
 Behind Vanessa, was 614 N Oakes, Unit A.  That had been bought from Darian in 2013 for $185k.  Duncan had the roof replaced and then proceeded to embark upon a legal battle with Darian to reclaim his damages.  I understand he eventually got a judgement, though I think there's a blood from a turnip issue with that.
