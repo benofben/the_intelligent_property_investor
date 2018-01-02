@@ -40,7 +40,7 @@ The cash flow comes out well.  This is, once again a product of a relatively low
 
 Paul uncovered his usually litany of items, including a degrading chimney.  Ryan fixed that up and did various other cleanup work.  In addition to that, there was an enormous amount of sweat equity picking garbage out of the yard and redoing the landscaping.
 
-![1414 - Model Primary](/images/6/1414%20-%20Model%20Primaryl.png)
+![1414 - Model Primary](/images/6/1414%20-%20Model%20Primary.png)
 
 Now let's assume something new.  What if, instead of renting the house out, it's lived in for the few decades?  No rent will be collected.  We could, of course, put some figure in for rent a compute a return off that, pretending to be our own landlord as in chapter 2.  However, we're going to ignore that benefit and consider the house purely as an investment.
 
