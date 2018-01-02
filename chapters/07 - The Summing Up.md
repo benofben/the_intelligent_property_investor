@@ -22,4 +22,12 @@ Over 70 years the equity graph is basically the same as the value graph.  With t
 
 None of this is really a particularly useful way of thinking of the five properties as a unified portfolio though.  Two key components are missing from this analysis.  First, the capital required to generate this equity isn't reflected in any meaningful way.  Second, there is no consideration for cash flow.
 
-All this starts to point to an interesting realization.  These properties, when taken together with their mortgages and rental incomes are more valuable than their equity would imply.  When we view that bundle as a financial instrument with some inputs, outputs and value, it becomes clear these are worth a bit more than the value alone would imply.
+We could look at cumulative cash flow.  However, one characteristic of these investments is that they absorb a significant amount of cash up front.  In the good cases, that is reflected in equity, in the bad cases, it's destroyed.  Either way it has minimal impact on cash flow, so that measurement wouldn't be particularly meaningful.
+
+All this starts to point to an interesting realization.  These properties, when taken together with their mortgages and rental incomes are more valuable than their equity or cash flow alone would imply.  When we view that bundle as a financial instrument with some inputs, outputs and value this becomes more clear.  This leads us back to the metrics we identified previously.  The most important of this is likely ROE.
+
+So, let's take a look at ROE in aggregate for the five properties.  
+
+Since starting buying property in 2012, total cash flow has been -$510,447.39.  Total equity is now 908,347.03.  That gives a return of 78%.  This is a rough estimate that doesn't properly account for the time value of money during that period.  When annualized that return is 10%.
+
+Now, let's consider three different rates of appreciation: 3%, 5% and 10%.  That should give us a view into the range of probably options over the next decade.
