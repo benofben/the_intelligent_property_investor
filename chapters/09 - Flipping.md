@@ -2,7 +2,7 @@
 
 > Nothing sedates rationality like large doses of effortless money. -Warren Buffet
 
-HGTV has taught us that the way to make money is real estate is flipping.  This is a horrible horrible lie.  As we saw in selling, there are numerous transaction costs that make it difficult to extract a return.
+HGTV has taught us that the way to make money is real estate is flipping.  This is a horrible horrible lie.  As we saw in Selling, there are numerous transaction costs that make it difficult to extract a return.
 
 The most prominent flippers are on TV.  I'd encourage the reader to ask the question prompted at the beginning of this book: how do the flippers make money.  I'd wager that the prominent TV flippers don't make money from their supposed business, but from the TV show itself and then connected businesses like furniture lines.  
 
