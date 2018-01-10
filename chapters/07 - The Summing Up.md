@@ -33,3 +33,19 @@ Since starting buying property in 2012, total cash flow has been -$510,447.39.  
 Once again, that 10% figure is a little discouraging given that it is available in the stock market for considerably less effort, however there were a variety of benefits along the way.  These included housing for much of that period, tax benefits and the ability to change housing options without paying transaction costs.
 
 Now, let's consider three different rates of appreciation: 3%, 5% and 10%.  That should give us a view into the range of probably outcomes over the next decade.
+
+![Delta Equity](/images/7/Delta%20Equity.png)
+
+In 2018, the outcomes range from $106k to $272k depending on the return of the underlying property.  This large range is due to the leverage employed.  Leverage causes returns to vary non-linearly as appreciation changes.
+
+As discussed earlier, each of these properties can be thought of as a structured financial instrument with a variety of inputs and outputs.  Over time, the two most important outputs are likely the equity in the property and the annual cash flow.  
+
+At purchase, inputs like interest rate and purchase price are very important.  In our model, initial rent is also quite important as that impacts ROE substantially.  However, that may be more an artifact of our model than a real world phenomenon.  Over time, the rents will be highly correlated to the value of the property, not the initial rent.
+
+While the interest rate may change over the lifetime of the instrument, it's only going to go down.  That's because we assume 30 year fixed rate loans.  We may occasionally refinance if the opportunity presents itself , but the rate will never get worse.  This asymmetric interest rate bet is one of the major benefits of investing in real estate.
+
+The input that's going to have the biggest impact over the long term is appreciation.  As discussed earlier, it is, by necessity, equal to inflation over the long term, however it may diverge for significant periods without reverting to the mean.  In markets like Seattle, that's the result of a booming economy.  Detroit is an excellent example of the opposite.
+
+We've seen that real appreciation is not the regular 3% our model uses.  Instead the numbers jump up and down substantially.  We could potentially improve our model by incorporating chaotic returns, but the end result would likely be precise at the expense of accuracy.
+
+There's substantial work that could be done to improve all these models and think about things more accurately and more formally.  However, I believe what is presented here provides an initial framework for thinking about real estate as an investment that doesn't seem to be present in other literature I've encountered.  I hope you find it useful.
