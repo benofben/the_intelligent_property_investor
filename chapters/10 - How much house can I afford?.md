@@ -2,7 +2,7 @@
 
 Probably more than you need.  Almost certainly more than you should buy.
 
-![Selling 0](/images/8/Income%20Purchase.png)
+![Selling 0](/images/10/Income%20Purchase.png)
 
 This, somewhat shocking, graph shows how much house you can buy depending on your annual income.  The assumption here is 5% down, %5% interest and 43% back end DTI.
 
