@@ -10,40 +10,40 @@
 !INCLUDE "../chapters/02 - 1420 Terry.md", 2
 
 # Chapter 3
-!INCLUDE "../chapters/03 - 2324 1st.md", 1
+!INCLUDE "../chapters/03 - 2324 1st.md", 3
 
 # Chapter 4
 !INCLUDE "../chapters/04 - 1122 24th.md", 4
 
 # Chapter 5
-!INCLUDE "../chapters/05 - 616 N Oakes.md", 1
+!INCLUDE "../chapters/05 - 616 N Oakes.md", 5
 
 # Chapter 6
-!INCLUDE "../chapters/06 - 1414 N Oakes.md", 1
+!INCLUDE "../chapters/06 - 1414 N Oakes.md", 6
 
 # Chapter 7
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+!INCLUDE "../chapters/07 - 3019 63rd.md", 7
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 8
+!INCLUDE "../chapters/08 - The Summing Up.md", 8
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 9
+!INCLUDE "../chapters/09 - Selling.md", 9
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 10
+!INCLUDE "../chapters/10 - Flipping.md", 10
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 11
+!INCLUDE "../chapters/11 - How much house can I afford?.md", 11
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 12
+!INCLUDE "../chapters/12 - REITs.md", 12
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Chapter 13
+!INCLUDE "../chapters/13 - The Low End.md", 13
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Appendix - Recommended Vendors
+!INCLUDE "../chapters/Appendix - Recommended Vendors.md", 14
 
-# Chapter 1
-!INCLUDE "../chapters/01 - 5203 Pershing.md", 1
+# Appendix - Suggested Reading
+!INCLUDE "../chapters/Appendix - Suggested Reading.md", 15
