@@ -6,7 +6,7 @@ I moved around a lot early in my career.  After finishing school in Colorado, I 
 
 I picked Seattle because of the coffee shops.  Growing up near the Trident in Boulder had turned me on to coffee shops.  Seattle cemented my affection for coffee shops and the neighborhoods they inhabit.  At the time my Seattle favorites were Bauhaus, Zeitgeist, Victrola and Joe Bar.
 
-![89 Yesler](/images/1/89%20Yesler.jpg)
+![89 Yesler](/images/01/89%20Yesler.jpg)
 
 In 2005 Pioneer Square was full of decaying buildings, nightclubs and homeless shelters.  A lot of the city's artist population lived there because it was cheap and picturesque.  I rented a semi-legal loft at 89 Yesler for $1200/month.  I loved living in that loft, but I couldn't quite afford it.  
 
@@ -24,7 +24,7 @@ From then on I had a variety of strange living situations.  My time in Chicago w
 
 I spent a month or so working in South Africa, followed by several weeks in London.  When I got back to New York I needed a new place to live.  My friend Michelle had a one bedroom railroad apartment at 6th and B.  She rented me her living room for $800/month.  Michelle's ex-boyfriend, Blair, had a rent controlled apartment at 11th and C.  He moved to LA and wanted to sublet it.  At the time NYC allowed subletting for the rent control price plus $50/month to cover administrative costs.
 
-![185 Ave C](/images/1/185%20Ave%20C.jpg)
+![185 Ave C](/images/01/185%20Ave%20C.jpg)
 
 At some point the apartment got bedbugs.  Even just typing that, I can feel them running up and down my legs.  Because there was no washer/dryer, it was difficult to follow the typical advice for dealing with bed bugs.  Instead, I took to dry cleaning everything.  Then construction started next door.  A new building went up flush against my windows, blocking out light for most of the apartment and creating deafening noise twelve hours a day.
 
@@ -46,19 +46,19 @@ With my accounts in place, I settled on a three story shared flat in Fullwoods M
 
 I remember three quite well.  Laurence was from East London.  He worked in a boiler room selling questionable stocks to the unwitting.  He also had a tendency to get into bar fights about football.  One night he came home missing a tooth.  When I announced I could care less about football, he informed me I was henceforward an Arsenal fan.  Kristina was Finnish and worked for the FSA, the UK equivalent of the SEC.  Laurence was incredibly wary of her.  Upstairs was Nick, a fellow American who fits many of the stereotypes of Americans abroad, but is so friendly he's impossible to dislike.
 
-![Fullwoods Mews Studio](/images/1/Fullwoods%20Mews%20Studio.jpg)
+![Fullwoods Mews Studio](/images/01/Fullwoods%20Mews%20Studio.jpg)
 
 The flat had paper thin walls.  After a few months of settling into London I wanted my own space.  A studio next door in the same building came up.  I moved in there.  It had paper thin walls too.  I could hear every step above me.
 
 I'd spent a lot of time walking around the city and noticed what I thought was a pricing anomaly.  East London had a number of abandoned pubs.  The downstairs would typically be beautiful old wood, polished by a thousand hands holding and spilling their beer.  Upstairs might be additional dining space or even living space.  Sometimes they were partially burnt out.  Some were available for ₤500k-₤1M.  I tried to apply for a mortgage.  Several brokers told me it was impossible as a foreigner.  Others asked for down payments in excess of 30%, something I could not have afforded.  I quickly gave up the dream of home ownership in the UK.  That was in 2009, at the bottom of the credit crunch.  As of this writing, those buildings have all been restored or demolished.  Restored pubs are worth millions.  Interestingly, during this time, my American ex-roomate, Nick, was able to buy a small studio in Kensington.  I suspect he's done well with that investment.
 
-![Broadway Market Outside](/images/1/Broadway%20Market%20Outside.jpg)
+![Broadway Market Outside](/images/01/Broadway%20Market%20Outside.jpg)
 
 After a bit over a year in Fullwoods Mews I moved out of Zone 1 to a beautiful flat at 74 Broadway Market.  I was upstairs from a hair salon, across the street from a coffee shop and next door to the pub.  It even had a washer/dryer that more or less worked.  My only complaint was that on weekends the pub stayed open until 1am.  Of course most weekends I was at the pub or the cocktail bar, Off Broadway, next door, so it wasn't a big deal.  On Saturdays the street would close for a market with vendors selling saucisson, apple cider and even really good churros.
 
 Living in London was strangely alienating.  While I had an amazing time at Broadway Market, I learned I would always be a foreigner.  Even if I was wearing a perfectly tailored suit, the moment I opened my mouth it would be clear from my accent that I didn't belong.  I took to wearing cowboy boots with my suits.  They were great for walking around the city and I discovered that fitting into stereotypes could be more useful than fitting in.
 
-![Broadway Market](/images/1/Broadway%20Market.jpg)
+![Broadway Market](/images/01/Broadway%20Market.jpg)
 
 I wanted to move home.  Nothing will make you more patriotic than living in another country.  TIBCO offered me a few choices for 2011.  Singapore and the US were both on the table.  I missed home so much that I stupidly chose the US.  In the US my choices were Atlanta and Dallas.  My love of cowboy boots probably figured into the Dallas choice.  The lack of a state income tax didn't hurt either.
 
@@ -66,7 +66,7 @@ After years of living in questionable places with terrible, failing or absent ap
 
 In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  Doing the math that works out to (10*2750)/12 = $2291.67/month.  This was less than I'd been paying in London for a much nicer place.  It even had a dishwasher, something I hadn't had in years.
 
-![Ashton](/images/1/Ashton.jpg)
+![Ashton](/images/01/Ashton.jpg)
 
 The Ashton offered two options for paying the rent:
 * Pay $0 for the first two months and $2750 for the next ten months
@@ -76,7 +76,7 @@ I chose the first option.  To pick, I viewed the baseline as option (2).  With t
 
 Things were going really well.  I also bought a fancy car, a 2006 Lotus Elise.  
 
-![Lotus](/images/1/Lotus.jpg)
+![Lotus](/images/01/Lotus.jpg)
 
 Work at TIBCO went well and I got transferred to a new group, supporting financial services again as I had been in New York and London before.  That was a blast and I was really enjoying Dallas.  I'd also discovered an area of Dallas that reminded me a bit of Seattle, the East Village and Broadway Market.  It's called Knox-Henderson.  My favorite coffee shop was the Pearl Cup there.  It's now closed, but a new coffee shop is currently operating in the same space called Houndstooth Coffee.
 
@@ -98,7 +98,7 @@ In short, don't trust your agent.  They are a necessary evil.  They're useful fo
 
 I found a house in Knox-Henderson that looked perfect, [5203 Pershing](https://www.zillow.com/homes/5203-Pershing-St,-Dallas,-TX-75206_rb/).  The asking price was $249,900.  The house is Bauhaus style, designed by Charles Dilbeck.  It's gorgeous, but run down.  It's easily walkable to the strip of bars and restaurants along Henderson.  I showed up to see it in my Lotus.  That was dumb.  The owner was also the listing agent.  She saw the car and immediately judged me as someone with more money than sense.  She may have been correct in that assessment.
 
-![5203 Pershing from Zillow in 2017](/images/1/5203%20Pershing.jpg)
+![5203 Pershing from Zillow in 2017](/images/01/5203%20Pershing.jpg)
 
 5203 would have been beautiful restored.  It easily needed $50k in work.  It could have soaked up $100k or more.  The price per square foot was well above comparables.  The comparison I ran put the price at $180k.  Between my bright orange car and the low offer, the seller was quite offended.  She budged a little but not enough to make sense.  My mom used to sell cars and had suggested I got in low to "break her spirit" before getting to the real negotiating.  I've since made a number of low ball offers.  The ones that worked don't cross a psychological barrier.  In this case, I think anything below $200k wasn't going to fly.
 

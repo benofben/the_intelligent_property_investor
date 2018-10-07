@@ -6,11 +6,11 @@ Selling real estate is a wonderful way to incur substantial transaction costs.  
 
 Let's consider just the 6% commission though.  First let's consider the 3% appreciation scenario.  This is for a loan of $100k.  
 
-![Selling 3](/images/8/Selling%203.png)
+![Selling 3](/images/08/Selling%203.png)
 
 If sold before year 3, the property result in a loss.  And this will be a loss assuming you were able to cover all the cash flow with rent.  That assumption isn't entirely safe from what we've seen earlier.
 
-![Selling 0](/images/8/Selling%200.png)
+![Selling 0](/images/08/Selling%200.png)
 
 Of course, things can always be worse.  If the property doesn't appreciate, break even on the 6% commission doesn't happen until year 5.
 

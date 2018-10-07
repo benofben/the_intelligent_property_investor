@@ -4,11 +4,11 @@
 
 The naive way to put this all together leads to some pleasant looking numbers, but is horribly misleading.
 
-![Value - 70 Year](/images/7/Value%20-%2070%20Year.png)
+![Value - 70 Year](/images/07/Value%20-%2070%20Year.png)
 
 In 70 years the total value of these properties will be nearly $16m, assuming a 3% annual growth.  Of course, that's a long enough run that Keynes's comment above becomes relevant.
 
-![Value - 10 Year](/images/7/Value%20-%2010%20Year.png)
+![Value - 10 Year](/images/07/Value%20-%2010%20Year.png)
 
 Considering 10 years instead is somewhat interesting.  In that, we can see some over the struggles described in early chapters.  Unsurprisingly, 1122 24th ends up as the biggest single chunk given it's greater worth relative to the others.
 
@@ -16,7 +16,7 @@ For many investments, it's interesting to look at the past history.  That's diff
 
 In short, looking backward in real estate is difficult.  It'd be simpler in a more static market with more static houses, perhaps a quiet town in rural Germany would fit the bill.
 
-![Equity - 10 Year](/images/7/Equity%20-%2010%20Year.png)
+![Equity - 10 Year](/images/07/Equity%20-%2010%20Year.png)
 
 Over 70 years the equity graph is basically the same as the value graph.  With the mortgages paid off, the values are the same.  Over ten years, we see some interesting characteristics of equity.  The condos have very little equity in 2012, 2013 and 2014.  In 2015, the Seattle property market begins to take off.  Suddenly equity starts growing very quickly.  That levels off as we move from the real returns to projected returns of 2018 and onward.
 
@@ -34,7 +34,7 @@ Once again, that 10% figure is a little discouraging given that it is available 
 
 Now, let's consider three different rates of appreciation: 3%, 5% and 10%.  That should give us a view into the range of probably outcomes over the next decade.
 
-![Delta Equity](/images/7/Delta%20Equity.png)
+![Delta Equity](/images/07/Delta%20Equity.png)
 
 In 2018, the outcomes range from $106k to $272k depending on the return of the underlying property.  This large range is due to the leverage employed.  Leverage causes returns to vary non-linearly as appreciation changes.
 
