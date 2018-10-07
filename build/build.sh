@@ -18,8 +18,9 @@ cat "../chapters/13 - The Low End.md" >> book.md
 cat "../chapters/Appendix - Recommended Vendors.md" >> book.md
 cat "../chapters/Appendix - Suggested Reading.md" >> book.md
 
-# convert that into an epub document
+# convert book.md into an epub document
 pandoc \
   -o Book.epub metadata.yaml book.md \
-  --toc --epub-stylesheet=stylesheet.css \
-  --toc-depth=2
+  --toc \
+  --toc-depth=2 \
+  --css=stylesheet.css

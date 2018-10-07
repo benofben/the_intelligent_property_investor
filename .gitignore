@@ -1,5 +1,6 @@
 # Temporary Excel Files
 ~*
 
-# Consolidated markdown file created by mdpp
+# output of build.sh
 build/book.md
+build/book.epub
