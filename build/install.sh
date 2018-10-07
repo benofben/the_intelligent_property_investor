@@ -5,10 +5,8 @@ brew install python@2
 
 ### markdown-pp
 cd ~
-curl -O https://codeload.github.com/jreese/markdown-pp/tar.gz/v1.4
-mv v1.4 markdown-pp-1.4.tar.gz
-tar -xvf markdown-pp-1.4.tar.gz
-cd markdown-pp-1.4
+git clone https://github.com/jreese/markdown-pp.git
+cd markdown-pp
 pip install MarkdownPP
 
 ### pandoc

@@ -22,7 +22,7 @@ Of course, things were too tight. I asked my dad for help a couple times.  Then 
 
 From then on I had a variety of strange living situations.  My time in Chicago was spent at a Homewood Suites in the outer suburb of Schaumburg, paid for by the company.  From there I went to New York.  Initially I lived in an overpriced sublet at 2nd Ave and 11th St.  I think my only furniture was a futon on the floor.  A few weeks before the sublet expired, the company gave me the opportunity to travel to South Africa for work.  I jumped on it, but that meant cleaning out the sublet early.  Fortunately my friend Graham had a Zipcar subscription.  We loaded all my stuff in a pickup and stuffed it in a storage area.
 
-I spent a month or so working in South Africa, followed by several weeks in London.  When I got back to New York I needed a new place to live.  My friend Michelle had a one bedroom railroad apartment at 6th and B.  She rented me her living room for $800/month.  Michelle's ex-boyfriend, Blair, had a rent controlled apartment at 11th and C.  He moved to LA and wanted to sublet it.  At the time NYC allowed subletting for the rent control price plus $50/month to cover administrative costs.
+I spent a month or so working in South Africa, followed by several weeks in London.  When I got back to New York I needed a new place to live.  My friend Michelle had a one bedroom railroad apartment at 6th and B.  She rented me her living room for $800/month.  Michelle's ex-boyfriend, Blair, had a rent controlled apartment at 11th and C.  He moved to LA and wanted to sublet it.  At the time NYC allowed subletting for the rent control price plus 50/month to cover administrative costs.
 
 ![185 Ave C](../images/01/185%20Ave%20C.jpg)
 
@@ -64,7 +64,11 @@ I wanted to move home.  Nothing will make you more patriotic than living in anot
 
 After years of living in questionable places with terrible, failing or absent appliances and nonfunctional heating and cooling, Dallas was paradise.  I toured numerous high-end mid-rise apartment buildings that I could easily afford and ending up selecting a one bedroom at The Ashton in Uptown.  The bathroom was bigger than my studio in London.
 
-In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  Doing the math that works out to (10*2750)/12 = $2291.67/month.  This was less than I'd been paying in London for a much nicer place.  It even had a dishwasher, something I hadn't had in years.
+In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  The math works out to:
+
+    (10*2750)/12 = $2291.67/month.  
+
+This was less than I'd been paying in London for a much nicer place.  It even had a dishwasher, something I hadn't had in years.
 
 ![Ashton](../images/01/Ashton.jpg)
 
@@ -112,6 +116,6 @@ The lease on my apartment at The Ashton ran out at the end of February 2012.  Th
 
 I think the manager of The Ashton judged me locked in enough to the apartment that they could screw me on the renewal.  This experience has informed how I operate as a landlord.  If you have a good tenant who takes care of the place and pays the rent on time, you work with them to retain them.  Turning the screws to increase your rent by 5%-10% doesn't work if it costs a month or two of vacancy.  And, vacancy is extremely difficult to avoid anytime a tenant turns over.
 
-At the time TIBCO had me traveling nearly every week, mostly to Chicago and New York to work with our financial services clients.  I announced to my boss, Mike, that I was moving back to Seattle.  He was surprisingly unphazed, something I am to this day deeply thankful for.
+At the time TIBCO had me traveling nearly every week, mostly to Chicago and New York to work with our financial services clients.  I announced to my boss, Mike, that I was moving back to Seattle.  He was surprisingly unphased, something I am to this day deeply thankful for.
 
 Since leaving Pioneer Square, I'd continued to visit Seattle regularly and regarded it as my eventual home.  Moving back felt incredible.  My friend Graham was renting the basement of a ranch house on Mercer island.  He had a lot of rooms and not much furniture.  He was kind enough to drop an air mattress in one mostly empty room.  It developed a slow leak.  His dog, Bear, also liked to say hello and given the minimal height of the air mattress, it was hard to avoid face licking.  Monday morning flights to New York, often upgraded given my extensive cross country travel, were an interesting contrast to this living situation.  It was a great time.
