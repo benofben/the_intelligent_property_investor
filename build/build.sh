@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # consolidate into a single markdown document
 cat "../chapters/00 - Introduction.md" > book.md
