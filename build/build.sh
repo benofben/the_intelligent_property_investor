@@ -34,6 +34,8 @@ echo "\n" >> book.md
 cat "../chapters/Appendix - Suggested Reading.md" >> book.md
 echo "\n" >> book.md
 cat "../LICENSE.md" >> book.md
+echo "\n" >> book.md
+cat "../chapters/About the Author.md" >> book.md
 
 # convert book.md into an epub document
 #curl -s https://raw.githubusercontent.com/edwardtufte/tufte-css/gh-pages/tufte.css > stylesheet.css

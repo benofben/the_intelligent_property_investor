@@ -1,0 +1,3 @@
+## About the Author
+
+Ben Lackey is a raging ego maniac who...
