@@ -1,5 +1,3 @@
-© 2017 Ben Lackey
-
 ## References
 
 ### Chapter 1

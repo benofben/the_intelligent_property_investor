@@ -33,7 +33,7 @@ cat "../chapters/Appendix - Recommended Vendors.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/Appendix - Suggested Reading.md" >> book.md
 echo "\n" >> book.md
-cat "../LICENSE.md" >> book.md
+cat "../chapters/References.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/X - About the Author.md" >> book.md
 
