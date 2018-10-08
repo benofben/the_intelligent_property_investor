@@ -33,9 +33,11 @@ cat "../chapters/Appendix - Recommended Vendors.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/Appendix - Suggested Reading.md" >> book.md
 
+
 # convert book.md into an epub document
+curl -O https://edwardtufte.github.io/tufte-css/tufte.css
 pandoc \
   -o Book.epub metadata.yaml book.md \
   --toc \
   --toc-depth=2 \
-  --css=stylesheet.css
+  --css=tufte.css
