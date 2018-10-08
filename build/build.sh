@@ -29,17 +29,15 @@ cat "../chapters/12 - REITs.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/13 - The Low End.md" >> book.md
 echo "\n" >> book.md
-cat "../chapters/Appendix - Recommended Vendors.md" >> book.md
+cat "../chapters/14 - Appendix - Recommended Vendors.md" >> book.md
 echo "\n" >> book.md
-cat "../chapters/Appendix - Suggested Reading.md" >> book.md
+cat "../chapters/15 - Appendix - Suggested Reading.md" >> book.md
 echo "\n" >> book.md
-cat "../chapters/References.md" >> book.md
+cat "../chapters/16 - References.md" >> book.md
 echo "\n" >> book.md
-cat "../chapters/X - About the Author.md" >> book.md
+cat "../chapters/17 - About the Author.md" >> book.md
 
 # convert book.md into an epub document
-#curl -s https://raw.githubusercontent.com/edwardtufte/tufte-css/gh-pages/tufte.css > stylesheet.css
-#curl -s https://raw.githubusercontent.com/mattharrison/epub-css-starter-kit/master/css/base.css > stylesheet.css
 curl -s https://raw.githubusercontent.com/FriendsOfEpub/Blitz/master/Blitz_framework/CSS/blitz-kindle.css > stylesheet.css
 
 pandoc \
