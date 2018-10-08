@@ -37,7 +37,8 @@ cat "../LICENSE.md" >> book.md
 
 # convert book.md into an epub document
 #curl https://raw.githubusercontent.com/edwardtufte/tufte-css/gh-pages/tufte.css > stylesheet.css
-curl https://raw.githubusercontent.com/mattharrison/epub-css-starter-kit/master/css/base.css > stylesheet.css
+#curl https://raw.githubusercontent.com/mattharrison/epub-css-starter-kit/master/css/base.css > stylesheet.css
+curl https://raw.githubusercontent.com/FriendsOfEpub/Blitz/master/Blitz_framework/CSS/blitz-kindle.css > stylesheet.css
 
 pandoc \
   -o Book.epub metadata.yaml book.md \

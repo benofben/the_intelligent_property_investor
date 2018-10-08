@@ -62,9 +62,7 @@ I wanted to move home.  Nothing will make you more patriotic than living in anot
 
 After years of living in questionable places with terrible, failing or absent appliances and nonfunctional heating and cooling, Dallas was paradise.  I toured numerous high-end mid-rise apartment buildings that I could easily afford and ending up selecting a one bedroom at The Ashton in Uptown.  The bathroom was bigger than my studio in London.
 
-In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  The math works out to:
-
-    (10*2750)/12 = $2291.67/month.  
+In Dallas I learned the phrase credit card millionaire.  That's a person who lives like a millionaire off of ever increasing credit card debt.  The lease at The Ashton seems designed for credit card millionaires.  Rent was $2750/month but the lease included the first two months free.  The math works out to: (10*2750)/12 = $2291.67/month.  
 
 This was less than I'd been paying in London for a much nicer place.  It even had a dishwasher, something I hadn't had in years.
 
