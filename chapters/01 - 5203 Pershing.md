@@ -12,9 +12,7 @@ In 2005 Pioneer Square was full of decaying buildings, nightclubs and homeless s
 
 According to the [HUD](https://www.hud.gov/program_offices/comm_planning/affordablehousing/): "Families who pay more than 30 percent of their income for housing are considered cost burdened and may have difficulty affording necessities such as food, clothing, transportation and medical care."
 
-At the time I was making $40k/year.  That felt like a staggering sum.  However, doing the math things come out less peachy:
-
-    ($1,200*12)/$40,000 = 36%
+At the time I was making $40k/year.  That felt like a staggering sum.  However, doing the math things come out less peachy: ($1,200*12)/$40,000 = 36%.
 
 The difficulties of rent burden weren't immediately clear.  I bought a dining set from Crate and Barrel, two couches from Dana and the Edo Bed from Area 51.  I'd been eyeing the bed for years at that point.  A store in Boulder had it in their display window.  For the first time in my life I had a fully furnished space that was mine alone.
 
