@@ -1,4 +1,4 @@
-# REITs
+## REITs
 
 Earlier we discussed how long term real estate returns equal inflation.  REITs that are made up of un-leveraged property therefore cannot outpace inflation.  They're a pretty dismal investment.
 

@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 My favorite business books are written by someone who did well and wants to share insights on their life. Some of my favorite examples are:
 

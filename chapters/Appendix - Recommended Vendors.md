@@ -1,8 +1,8 @@
-# Recommended Vendors
+## Appendix - Recommended Vendors
 
 A bunch of companies are mentioned in this book.  If you're in the area, these are a few I would highly recommend based on my excellent experiences with them.
 
-## Seattle
+### Seattle
 
 * Queen Anne Law Group, PLLC - Scott Mikel
 * Residential Inspection Services - Paul Rogers
@@ -11,11 +11,11 @@ A bunch of companies are mentioned in this book.  If you're in the area, these a
 * Hampton West Real Estate - Chris Dugger
 * Martyn Byrne Plumbing
 
-## Elsewhere
+### Elsewhere
 
 * Spokane - Catlin Capital - Jason Catlin
 
-## Tacoma
+### Tacoma
 
 * Preferred Roofing Services, Inc. - Ed
 * South Sound Construction - Ryan Anderson

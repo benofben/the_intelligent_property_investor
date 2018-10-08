@@ -1,4 +1,4 @@
-# The Low End
+## The Low End
 
 Apparently there's money to be made as a "slum lord."  The idea has never appealed to me.  I like to take pride in what I do, the network of contractors I employ and the services I offer to my tenants.  Slowly killing them while they try to live in a molding cesspool doesn't seem like a good way to accomplish that.
 

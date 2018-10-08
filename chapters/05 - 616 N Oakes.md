@@ -1,4 +1,4 @@
-# 616 N Oakes
+## 616 N Oakes
 
 > He scoured the suburbs of Paris and eventually discovered a villa for sale on the hillside above Fontenay-aux-Roses, standing in a lonely spot close to the Fort and far from all neighbours.  This was the answer to his dreams, for in this district which had so far remained unspoilt by rampaging Parisians, he would be safe from molestation: the wretched state of communications, barely maintained by a comical railway at the far end of the town and a few little trams which came and went as they pleased, reassured him on this point.  Thinking of the new existence he was going to fashion for himself, he felt a glow of pleasure at the idea that here it would be too far out for the tidal wave of Parisian life to reach him, and yet near enough for the proximity of the capital to strengthen him in his solitude.  For, since a man has only to know he cannot get to a certain spot to be seized with a desire to go there, by not entirely barring the way back he was guarding against any hankering after human society, any nostalgic regrets. -Joris-Karl Huysmans, Against Nature
 

@@ -1,4 +1,4 @@
-# How much house can I afford?
+## How much house can I afford?
 
 Probably more than you need.  Almost certainly more than you should buy.
 
