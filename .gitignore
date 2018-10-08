@@ -4,3 +4,4 @@
 # output of build.sh
 build/book.md
 build/book.epub
+build/tufte.css
