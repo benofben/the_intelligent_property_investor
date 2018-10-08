@@ -17,6 +17,6 @@ My motives for writing this are:
 * I want to try self publishing on Amazon.  I'm curious if a book like this would make money.  I don't expect to be pleasantly surprised, but am open to the possibility.
 * My favorite part of business memoirs is the start where someone creates a new business from nothing.  The first million seems like the hardest.  With that in place compounding interest takes over and things get simpler.  I'd like to see more stories about the start.  Maybe telling mine will prompt others to tell theirs.
 
-Comments, edits and corrections are greatly appreciated.  You can submit those on GitHub [here](https://github.com/benofben/the_intelligent_property_investor).
+Comments, edits and corrections are greatly appreciated.  You can submit those on GitHub [here](https://github.com/benofben/the_intelligent_property_investor/issues).
 
 I hope you enjoy the book.  
