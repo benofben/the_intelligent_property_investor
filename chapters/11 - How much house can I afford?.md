@@ -1,6 +1,8 @@
 ## How much house can I afford?
 
-Probably more than you need.  Almost certainly more than you should buy.
+"Stocks have reached a permanently high plateau." -Irving Fisher, October 16, 1929
+
+Don't worry.  This time it's different.  Housing has reached a permanently high plateau with demand on the costs driving prices skyward for good.  You'd better get in before the market moves on without you.  So, how much house can you afford?  Probably more than you need.  Almost certainly more than you should buy.
 
 ![Selling 0](../images/11/Income%20Purchase.png)
 
