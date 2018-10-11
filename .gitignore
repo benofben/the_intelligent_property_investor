@@ -1,6 +1,9 @@
 # Temporary Excel Files
 ~*
 
+# Mac Files
+.DS_Store
+
 # output of build.sh
 build/book.md
 build/book.epub
