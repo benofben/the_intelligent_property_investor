@@ -6,10 +6,12 @@ A bunch of companies are mentioned in this book.  If you're in the area, these a
 
 * Queen Anne Law Group, PLLC - Scott Mikel
 * Residential Inspection Services - Paul Rogers
-* Mike Hills Construction
 * Vista Estate Imaging - Aimee Chase
 * Hampton West Real Estate - Chris Dugger
+* MHC Builds, LLC - Mike Hills
 * Martyn Byrne Plumbing
+* Vogel's Carpet - Brad Vogel
+* Aaron Hiroshima Painting
 
 ### Elsewhere
 
