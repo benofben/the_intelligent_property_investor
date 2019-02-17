@@ -1,6 +1,6 @@
 # The Intelligent Property Investor
 
-This is a book I'm working on.  It's not done yet.  If all goes well, I'm going to package it up as an eBook on Amazon.  In the meantime, enjoy!
+This is a book I wrote.  You can buy a copy on Amazon here.  Alternatively, you can read it as is on GitHub or even use the scripts here to build your own copy of it.  Pull requests and issues are greatly appreciated.
 
 ## Description
 
