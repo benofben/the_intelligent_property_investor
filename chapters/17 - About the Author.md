@@ -1,6 +1,6 @@
 ## About the Author
 
-![](../images/X/headshot.jpg)
+![](../images/17/headshot.jpg)
 
 Ben Lackey enjoys long walks on the beach, drinks in coconuts and ice cream pie.  He's a little shocked that he's summoned the hubris to publish this and is deeply thankful you've made it all the way to the end.  While he spends a lot of time fiddling with properties, his day job is in technology.  
 
