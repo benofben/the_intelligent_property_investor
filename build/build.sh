@@ -15,8 +15,8 @@ cat "../chapters/05 - 616 N Oakes.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/06 - 1414 N Oakes.md" >> book.md
 echo "\n" >> book.md
-cat "../chapters/07 - 3019 63rd.md" >> book.md
-echo "\n" >> book.md
+#cat "../chapters/07 - 3019 63rd.md" >> book.md
+#echo "\n" >> book.md
 cat "../chapters/08 - The Summing Up.md" >> book.md
 echo "\n" >> book.md
 cat "../chapters/09 - Selling.md" >> book.md
